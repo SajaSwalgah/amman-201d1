@@ -1,1 +1,87 @@
 /* TODO: Make it awesome */
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2019/04/24/11/27/flowers-4151900_960_720.jpg");
+    background-repeat: no-repeat;
+    background-size: 1400px 650px;
+}
+header h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom :20px;
+    font-size: 70px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: bolder;
+    color: #C71585;
+    }
+     ul {
+         text-align: center;
+         margin-top: 50px;
+        margin-right: auto;
+        font-size: 30px;
+     }
+   header  li{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+            text-decoration: none;
+            background-color: rgb(218, 89, 132);
+            color: white;
+            padding: 14px 25px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+          }
+          
+          a:hover, a:active {
+            background-color: rgb(218, 89, 132);
+        padding-left:50px ;
+        padding-right: 50px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+
+        display: inline-block;
+       
+    }
+    .card h1 {
+        text-align: center;
+    margin-top: 30px;
+    margin-bottom :10px;
+    font-size: 30px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: bolder;
+    color: rgb(107, 28, 160);
+    }
+    .copy  ol {
+        font-family: "Comic Sans MS", cursive, sans-serif;
+        width: 800px;
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: 50px;
+        margin-bottom: 20px;
+        color: rgb(157, 18, 170);
+        font-size: 20px;
+        list-style: square;
+    }
+    ol li {
+      padding-bottom: 10px;
+    }
+    #catalog{
+        font-family: "Comic Sans MS", cursive, sans-serif;
+        color: rgb(10, 7, 31);
+        text-align: center;
+        font-size: 20px;
+        font-weight: bold;
+
+    }
+    #catalog legend {
+        padding-bottom: 20px;
+        font-size: 20px;
+    }
+    span{
+        padding-left:40px;
+    }
+    label{
+        text-decoration: none;
+    }
+  footer{
+      text-align: center;
+      margin-top: 60px;
+  }
